@@ -1898,7 +1898,7 @@ public final class DbxClientV1
     /**
      * Creates and returns a publicly-shareable URL to a file or folder's "preview page".
      * This URL can be used without authentication.  The preview page may contain a thumbnail or
-     * some other preview of the file, along with a link to download the actual filel.
+     * some other preview of the file, along with a link to download the actual file.
      *
      * @param path
      *     The Dropbox path to a file or folder.
